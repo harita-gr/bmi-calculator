@@ -11,7 +11,7 @@
 - Calculate BMI. Show health status
 ---
 ### Hosted at
-
+https://bmi-calculator-1604.netlify.app
 
 ---
 ### Author
